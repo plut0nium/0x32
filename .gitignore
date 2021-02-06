@@ -21,6 +21,10 @@ fp-info-cache
 *.dsn
 *.ses
 
+# manufacturing output files
+pcb/gerbers/*
+pcb/assembly/*
+
 # Exported BOM files
 *.xml
 *.csv

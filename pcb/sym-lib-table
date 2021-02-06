@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name 0xLib_Display)(type Legacy)(uri ${KICAD_USER_LIB}/Display.lib)(options "")(descr ""))
+  (lib (name 0xLib_Diode_Transistor)(type Legacy)(uri ${KICAD_USER_LIB}/Diode_Transistor.lib)(options "")(descr ""))
+  (lib (name 0xLib_MK)(type Legacy)(uri ${KICAD_USER_LIB}/MK.lib)(options "")(descr ""))
+  (lib (name 0xLib_LEDs)(type Legacy)(uri ${KICAD_USER_LIB}/LEDs.lib)(options "")(descr ""))
+  (lib (name 0xLib_NordicSemi)(type Legacy)(uri ${KICAD_USER_LIB}/NordicSemi.lib)(options "")(descr ""))
+  (lib (name 0xLib_Switch_Button)(type Legacy)(uri ${KICAD_USER_LIB}/Switch_Button.lib)(options "")(descr ""))
+)
